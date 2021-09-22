@@ -1,0 +1,1 @@
+Este repositorio es para el proyectos __bash__.
