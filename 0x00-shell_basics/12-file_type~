@@ -1,2 +1,2 @@
 #!/bin/bash
-file -P name=iamafile
+file -i /tmp/iamafile
