@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 0751 mkdir my_dir 
+mkdir my_dir && chmod -R 751 /my_dir
